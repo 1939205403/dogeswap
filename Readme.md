@@ -1,4 +1,4 @@
-代码已开源，仅供交流学习使用，不适合上主链操作。
+代码已开源，仅供交流学习使用，请勿商用。不适合上主链操作。
 上主链使用后如产生安全问题概不负责。
 思路交流请联系：https://s.denglianqiu.cn/smartContractComunication
 
